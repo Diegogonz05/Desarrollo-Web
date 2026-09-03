@@ -1,0 +1,59 @@
+/* 
+ES PARA 
+*{
+    border: 1px;
+    border-style: dotted;
+}
+    */
+
+body {
+    background: #0c96cc;
+    background: linear-gradient(90deg, rgba(12, 150, 204, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
+
+h1,h2,h3 {
+    font-weight: bolder;
+    font-size: 18pt;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+   
+
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container{
+    max-width: 760px;
+    padding: 20px;
+    margin: 30px auto;
+}
+
+.container article{
+    background-color: aquamarine;
+    padding: 20px;
+    
+}
+
+.subrayado {
+    text-decoration: underline;
+}
